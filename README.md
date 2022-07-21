@@ -2,6 +2,10 @@
 
 This paper presents a novel GAN Inversion framework for single view 3D object reconstruction.
 
+* Project page: [link](https://www.mmlab-ntu.com/project/meshinversion/)
+* Paper: [link](https://arxiv.org/abs/2207.10061)
+* Youtube: [link](https://www.youtube.com/watch?v=13QfxbZqmvM)
+
 
 ## Setup
 Install environment:
