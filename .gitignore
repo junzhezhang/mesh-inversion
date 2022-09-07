@@ -4,7 +4,6 @@ tensorboard_pretrain/
 tensorboard_inversion/
 datasets/
 outputs/
-lib/external/
 lib/utils/vgg19-dcbb9e9d.pth
 __pycache__/
 *.zip
