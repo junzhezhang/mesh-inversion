@@ -48,7 +48,7 @@ python run_pretraining.py --name self_train --gpu_ids 0,1,2,3 --epochs 600
 ```
 
 ## Acknowledgement
-The code is in part built on [ConvMesh](https://github.com/dariopavllo/convmesh), [ShapeInversion](https://github.com/XingangPan/deep-generative-prior) and [CMR](https://github.com/chenyuntc/cmr). Besides, Chamfer Distance is borrowed from [ChamferDistancePytorch](https://github.com/ThibaultGROUEIX/ChamferDistancePytorch), which is included in the `lib/external` folder for convenience.
+The code is in part built on [ConvMesh](https://github.com/dariopavllo/convmesh), [ShapeInversion](https://github.com/junzhezhang/shape-inversion) and [CMR](https://github.com/chenyuntc/cmr). Besides, Chamfer Distance is borrowed from [ChamferDistancePytorch](https://github.com/ThibaultGROUEIX/ChamferDistancePytorch), which is included in the `lib/external` folder for convenience.
 
 ## Citation
 ```  
